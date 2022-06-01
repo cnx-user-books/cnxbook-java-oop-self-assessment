@@ -1,0 +1,27 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11987</md:content-id>
+    <md:title>Java OOP Self-Assessment</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>d4254118-1263-488c-a066-996adc9222b3</md:uuid>
+<md:slug>java-oop-self-assessment</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m45252"/>
+    <col:module document="m45284"/>
+    <col:module document="m45286"/>
+    <col:module document="m45287"/>
+    <col:module document="m45260"/>
+    <col:module document="m45280"/>
+    <col:module document="m45264"/>
+    <col:module document="m45276"/>
+    <col:module document="m45279"/>
+    <col:module document="m45270"/>
+    <col:module document="m45296"/>
+    <col:module document="m45308"/>
+    <col:module document="m45303"/>
+    <col:module document="m45310"/>
+    <col:module document="m45302"/>
+  </col:content>
+</col:collection>
